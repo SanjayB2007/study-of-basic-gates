@@ -82,9 +82,6 @@ assign f7=~(a^b);
 endmodule
 ```
 
-<img width="635" height="374" alt="image" src="https://github.com/user-attachments/assets/e4d50000-4ce7-4f62-829e-4a50797e1329" />
-
-<img width="1089" height="632" alt="image" src="https://github.com/user-attachments/assets/183f9ab2-2d27-487a-ba4b-0b0d48bb9907" />
 
 
  
