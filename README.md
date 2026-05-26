@@ -85,7 +85,6 @@ endmodule
 
 
  
-**Logic symbol & Truthtable**
 
 **RTL realization Output:** 
 
